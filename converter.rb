@@ -13,4 +13,4 @@ def num_to_ip(number)
   decimal_components.join('.')
 end
 
-p num_to_ip(2435859)
+p num_to_ip(243585976)
